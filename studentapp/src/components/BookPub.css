@@ -1,0 +1,35 @@
+.maincantener{
+    padding: 0;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    margin-top: 5%;
+    align-items: center;
+    margin-left: 40%;
+    
+}
+.heading{
+    margin-left: 20%;
+}
+
+.textrow{
+    display: flex;
+    flex-direction: row;
+}
+
+.form-label{
+    min-width: 10rem;
+    text-align: left;
+}
+.btn{
+    margin-right: 40%;
+    margin-top: 20px;
+}
+
+.heading{
+    margin-left: 45%;
+}
+
+.fileupload{
+    margin-right: 70%;
+}

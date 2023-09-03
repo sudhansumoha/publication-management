@@ -1,0 +1,16 @@
+.app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p{
+  font-size: 70%;
+  color: red;
+  margin-left: 55%;
+}
+
+.MuiDrawer-docked .MuiDrawer-paper{
+  background-color: rgb(39, 38, 38);
+  color: white;
+}

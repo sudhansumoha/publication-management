@@ -1,0 +1,38 @@
+@media (max-width: 767px) { 
+    .heading{
+        text-align: center;
+    }
+    .maincantener{
+        padding: 100;
+        margin: 100;
+        max-width: 100%;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: auto;
+        padding: 1rem;
+        font-size: 1.2rem;
+    }
+    .textrow::after{
+        width: 100%;
+    }
+
+}
+@media (max-width: 400px) { 
+    .heading{
+        text-align: center;
+    }
+    .maincantener{
+        padding: 0;
+        margin: 0;
+        max-width: 100%;
+        justify-content: center;
+        text-align: center;
+    }
+    .textrow::after{
+        width:100%;
+    
+}
+}
